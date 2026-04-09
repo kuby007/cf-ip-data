@@ -1,7 +1,6 @@
 {
   "randomCode": "54321",
   "tokenType": "fine",
-
   "channels": [
     {
       "id": 1,
@@ -42,11 +41,9 @@
     "branch": "main"
   },
   "revHost": "www.cloudflare.com",
-  "customNodes": "",
-  "apiSources": [],
   "cfApiUrls": [
     "https://cfip.118889.xyz/TFEuNFlKL7Qk-cf.txt"
   ],
   "pxApiUrls": [],
-  "exportTime": 1775756958350
+  "exportTime": 1775757909100
 }
