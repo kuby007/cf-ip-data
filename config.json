@@ -1,0 +1,52 @@
+{
+  "randomCode": "54321",
+  "tokenType": "fine",
+
+  "channels": [
+    {
+      "id": 1,
+      "name": "电信宽带",
+      "builtIn": true
+    },
+    {
+      "id": 2,
+      "name": "移动宽带",
+      "builtIn": true
+    },
+    {
+      "id": 3,
+      "name": "电信5G",
+      "builtIn": true
+    },
+    {
+      "id": 4,
+      "name": "移动5G",
+      "builtIn": false
+    },
+    {
+      "id": 5,
+      "name": "联通5G",
+      "builtIn": false
+    },
+    {
+      "id": 6,
+      "name": "联通宽带",
+      "builtIn": false
+    }
+  ],
+  "github": {
+    "repo": "cf-ip-data",
+    "dir": "ip/9213666",
+    "proxy": "https://gb.hfr1107.top",
+    "autoCreateRepo": true,
+    "branch": "main"
+  },
+  "revHost": "www.cloudflare.com",
+  "customNodes": "",
+  "apiSources": [],
+  "cfApiUrls": [
+    "https://cfip.118889.xyz/TFEuNFlKL7Qk-cf.txt"
+  ],
+  "pxApiUrls": [],
+  "exportTime": 1775756958350
+}
