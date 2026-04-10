@@ -1,5 +1,5 @@
 {
-  "randomCode": "54322",
+  "randomCode": "92134",
   "tokenType": "fine",
   "encryptedToken": "HtEa2kVTQVzTJR1SVRjUWpHVq9WQwRjbpFjNxEFU5tmZppXbNVXbEhGRZBjdXVTexQVR4YlUwAnWxV2XtZkMMZTanRTWiNTdwEUN3sUS3IUMx8FdhB3XiVHa0l2Z",
   "channels": [
@@ -36,7 +36,7 @@
   ],
   "github": {
     "repo": "cf-ip-data",
-    "dir": "ip/9213666",
+    "dir": "ip/92134",
     "proxy": "https://gh-proxy.org",
     "autoCreateRepo": true,
     "branch": "main"
@@ -52,5 +52,5 @@
   "manualPxIps": [],
   "apiCfIps": [],
   "apiPxIps": [],
-  "exportTime": 1775814714022
+  "exportTime": 1775816421821
 }
