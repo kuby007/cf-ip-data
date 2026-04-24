@@ -5,7 +5,7 @@
     "h01"
   ],
   "tokenType": "fine",
-  "encryptedToken": "",
+  "encryptedToken": "HtEa2kVTQVzTJR1SVRjUWpHVq9WQwRjbpFjNxEFU5tmZppXbNVXbEhGRZBjdXVTexQVR4YlUwAnWxV2XtZkMMZTanRTWiNTdwEUN3sUS3IUMx8FdhB3XiVHa0l2Z",
   "channels": [
     {
       "id": 1,
@@ -60,13 +60,13 @@
   "adaptiveApi": "https://dy-proxy.org",
   "scanSettings": {
     "sourceV4": false,
-    "v4Slider": 2000,
+    "v4Slider": "2000",
     "sourceV6": false,
-    "v6Slider": 1000,
+    "v6Slider": "1000",
     "sourceCustom": true,
     "expertToggle": true,
-    "threads": 0,
-    "connTimeout": 2500
+    "threads": "0",
+    "connTimeout": "2500"
   },
-  "exportTime": 1777004311432
+  "exportTime": 1777022422244
 }
