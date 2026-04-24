@@ -1,9 +1,6 @@
 {
   "randomCode": "t4n3zvsz",
-  "randomCodeHistory": [
-    "tfvqquy0",
-    "evtfqafn"
-  ],
+  "randomCodeHistory": [],
   "tokenType": "fine",
   "encryptedToken": "HtEa2kVTQVzTJR1SVRjUWpHVq9WQwRjbpFjNxEFU5tmZppXbNVXbEhGRZBjdXVTexQVR4YlUwAnWxV2XtZkMMZTanRTWiNTdwEUN3sUS3IUMx8FdhB3XiVHa0l2Z",
   "channels": [
@@ -21,6 +18,11 @@
       "id": 3,
       "name": "电信5G",
       "builtIn": true
+    },
+    {
+      "id": 4,
+      "name": "自定义频道4",
+      "builtIn": false
     }
   ],
   "github": {
@@ -40,13 +42,13 @@
   "adaptiveApi": "https://dy-proxy.org",
   "scanSettings": {
     "sourceV4": false,
-    "v4Slider": 2000,
+    "v4Slider": "2000",
     "sourceV6": false,
-    "v6Slider": 1000,
+    "v6Slider": "1000",
     "sourceCustom": true,
-    "expertToggle": false,
-    "threads": 0,
-    "connTimeout": 2500
+    "expertToggle": true,
+    "threads": "0",
+    "connTimeout": "2500"
   },
-  "exportTime": 1777006418164
+  "exportTime": 1777007148544
 }
