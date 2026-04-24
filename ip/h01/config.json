@@ -1,0 +1,72 @@
+{
+  "randomCode": "h01",
+  "randomCodeHistory": [
+    "34v7odl6",
+    "h01"
+  ],
+  "tokenType": "fine",
+  "encryptedToken": "",
+  "channels": [
+    {
+      "id": 1,
+      "name": "电信宽带",
+      "builtIn": true
+    },
+    {
+      "id": 2,
+      "name": "移动宽带",
+      "builtIn": true
+    },
+    {
+      "id": 3,
+      "name": "电信5G",
+      "builtIn": true
+    },
+    {
+      "id": 4,
+      "name": "自定义频道4",
+      "builtIn": false
+    },
+    {
+      "id": 5,
+      "name": "自定义频道5",
+      "builtIn": false
+    },
+    {
+      "id": 6,
+      "name": "自定义频道6",
+      "builtIn": false
+    },
+    {
+      "id": 7,
+      "name": "自定义频道7",
+      "builtIn": false
+    }
+  ],
+  "github": {
+    "repo": "cf-ip-data",
+    "dir": "ip/",
+    "proxy": "https://gh-proxy.org",
+    "autoCreateRepo": true,
+    "branch": "main"
+  },
+  "validResults": [],
+  "selectedIps": [],
+  "historyRecords": [],
+  "uploadLog": {},
+  "privateUuid": "",
+  "privateDomain": "",
+  "privatePath": "/?ed=2560",
+  "adaptiveApi": "https://dy-proxy.org",
+  "scanSettings": {
+    "sourceV4": false,
+    "v4Slider": 2000,
+    "sourceV6": false,
+    "v6Slider": 1000,
+    "sourceCustom": true,
+    "expertToggle": true,
+    "threads": 0,
+    "connTimeout": 2500
+  },
+  "exportTime": 1777004311432
+}
