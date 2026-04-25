@@ -123824,18 +123824,21 @@
   ],
   "uploadLog": {
     "1_px": {
-      "time": 1777031627134,
+      "time": 1777108904035,
       "count": 467
     },
     "3_px": {
       "time": 1777030475135,
       "count": 432
+    },
+    "1_dy": {
+      "time": 1777108907503
     }
   },
   "privateUuid": "b82d86c5-08ab-4135-87cc-7247cf73cca5",
   "privateDomain": "ip.hly0312.eu.org",
   "privatePath": "/?ed=2560",
-  "adaptiveApi": "https://sublink.eooce.com/singbox?config=",
+  "adaptiveApi": "",
   "scanSettings": {
     "sourceV4": false,
     "v4Slider": "1160",
@@ -123846,5 +123849,5 @@
     "threads": "0",
     "connTimeout": "2500"
   },
-  "exportTime": 1777031643431
+  "exportTime": 1777109823974
 }
