@@ -9,8 +9,8 @@
   "cfEmail": "hkuby007@gmail.com", // Cloudflare 账号邮箱
   "encryptedCfKey": "==QZ1kTOlZzM2IndWlVZaFnM1N2VlNTVotUYtB1V6NlSsBlVXJzd3d1ZHBTWFh0dX12XrZ2Y", // 加密后的 Cloudflare Global API Key
   "cfDeployUuid": "fe032374-f263-44d5-913a-75cc7707a3e8", // CF 部署 UUID
-  "remoteUrlHistory": [], // 远程 URL 历史记录
-  "customUrl": "", // 自定义列表远程 URL
+  "remoteUrlHistory": ["https://zip.cm.edu.kg/all.txt"], // 远程 URL 历史记录
+  "customUrl": "https://zip.cm.edu.kg/all.txt", // 自定义列表远程 URL
   "channels": [{"id":1,"name":"电信宽带","builtIn":true},{"id":2,"name":"移动宽带","builtIn":true},{"id":3,"name":"电信5G","builtIn":true}], // 频道列表
   "selectedRegions": [], // 选中的地区筛选 (空=全部)
   "selectedTypes": ["v4","v6"], // 选中的 IP 类型 (v4/v6)
